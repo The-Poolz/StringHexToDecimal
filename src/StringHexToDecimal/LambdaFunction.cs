@@ -7,9 +7,9 @@ using StringHexToDecimal.Models;
 
 namespace StringHexToDecimal;
 
-public class LambdaFunction
+public static class LambdaFunction
 {
-    public OutputData[] Run(InputData[] input) =>
+    public static OutputData[] Run(InputData[] input) =>
         input.Select(i => new OutputData
         {
             Name = i.Name,

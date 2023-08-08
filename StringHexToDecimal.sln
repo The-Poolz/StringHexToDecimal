@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{98EC1BF3
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringHexToDecimal", "src\StringHexToDecimal\StringHexToDecimal.csproj", "{C8850EC7-ABD9-4816-99C6-4825C98FDD90}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringHexToDecimal.Tests", "tests\StringHexToDecimal.Tests\StringHexToDecimal.Tests.csproj", "{1096026B-3547-4FCD-9EDC-47E53208413E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,12 +21,17 @@ Global
 		{C8850EC7-ABD9-4816-99C6-4825C98FDD90}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8850EC7-ABD9-4816-99C6-4825C98FDD90}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8850EC7-ABD9-4816-99C6-4825C98FDD90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1096026B-3547-4FCD-9EDC-47E53208413E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1096026B-3547-4FCD-9EDC-47E53208413E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1096026B-3547-4FCD-9EDC-47E53208413E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1096026B-3547-4FCD-9EDC-47E53208413E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{C8850EC7-ABD9-4816-99C6-4825C98FDD90} = {2B971A6E-5669-48E2-B705-D4741D74E3A9}
+		{1096026B-3547-4FCD-9EDC-47E53208413E} = {98EC1BF3-A3B6-485F-BD02-0DD6626D4C11}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BA6F460A-FE43-44DC-B113-4FFEB04CE6AE}
