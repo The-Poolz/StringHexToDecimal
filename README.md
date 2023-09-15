@@ -1,5 +1,8 @@
 # StringHexToDecimal
 
+[![.NET](https://github.com/The-Poolz/StringHexToDecimal/actions/workflows/dotnet.yml/badge.svg)](https://github.com/The-Poolz/StringHexToDecimal/actions/workflows/dotnet.yml)
+[![CodeFactor](https://www.codefactor.io/repository/github/the-poolz/stringhextodecimal/badge)](https://www.codefactor.io/repository/github/the-poolz/stringhextodecimal)
+
 StringHexToDecimal is a simple AWS Lambda function written in C# that converts hexadecimal numbers to decimal format.
 This Lambda function uses the `Nethereum.Web3` library for the conversion and is intended for simple use-cases like Ethereum-related calculations.
 
