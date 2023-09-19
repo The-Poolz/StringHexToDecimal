@@ -1,6 +1,6 @@
 # StringHexToDecimal
 
-[![.NET](https://github.com/The-Poolz/StringHexToDecimal/actions/workflows/dotnet.yml/badge.svg)](https://github.com/The-Poolz/StringHexToDecimal/actions/workflows/dotnet.yml)
+[![.NET](https://github.com/The-Poolz/StringHexToDecimal/actions/workflows/sonarcloud.yml/badge.svg)](https://github.com/The-Poolz/StringHexToDecimal/actions/workflows/sonarcloud.yml)
 [![CodeFactor](https://www.codefactor.io/repository/github/the-poolz/stringhextodecimal/badge)](https://www.codefactor.io/repository/github/the-poolz/stringhextodecimal)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=The-Poolz_StringHexToDecimal&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=The-Poolz_StringHexToDecimal)
 
